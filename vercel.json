@@ -1,0 +1,16 @@
+{
+    "rewrites": [
+      {
+        "source": "/",
+        "destination": "/index.html"
+    
+      },
+      {
+        "source": "/excel",
+        "destination": "/second/index.html"
+    
+      }
+      
+      
+    ]
+  }
