@@ -1,7 +1,7 @@
 {
     "rewrites": [
       {
-        "source": "/",
+        "source": "/udemy",
         "destination": "/index.html"
     
       },
