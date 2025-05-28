@@ -7,7 +7,7 @@
       },
       {
         "source": "/excel",
-        "destination": "/second/second.html"
+        "destination": "/second.html"
     
       }
       
